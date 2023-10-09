@@ -1,0 +1,14 @@
+{
+    "employees": [
+        {
+            "id": 2,
+            "firstName": "Steve",
+            "lastName": "Palmer",
+            "email": "steve@codingthesmartway.com"
+        },
+        {
+            "name": "Add your name in the body",
+            "id": 6
+        }
+    ]
+}
